@@ -4,4 +4,3 @@ Criei uma landing page responsiva para a empresa fictícia Avanti, com foco em e
 
 Tecnologias utilizadas: HTML, CSS, JavaScript.
 
-Rodar com Live Server.
